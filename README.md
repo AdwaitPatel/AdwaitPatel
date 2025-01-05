@@ -7,7 +7,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate developer
 - Love to workout
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity.
