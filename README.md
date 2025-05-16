@@ -1,6 +1,6 @@
 # Hi 👋 My name is Adwait Patel
 
-- 🖥️ See my portfolio at [Portfolio](https://adwaitsportfolio.vercel.app/)
+- 🖥️ See my [portfolio](https://adwaitsportfolio.vercel.app/).
 - 🌐 I'm based in Mathura, Uttar Pradesh.
 - 📧 You can contact me at [sgnmiu@gmail.com](mailto:sgnmiu@gmail.com)
 - 🚀 I'm currently working as a Full-Stack Developer.
