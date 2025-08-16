@@ -13,7 +13,7 @@
 
 ## Socials
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bhoomishakya&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomishakya" />
+  <img src="https://komarev.com/ghpvc/?username=AdwaitPatel&label=Profile%20views&color=0e75b6&style=flat" alt="adwaitpatel" />
 </p>
 <p align="center">
 <a href="https://github.com/AdwaitPatel"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
@@ -26,9 +26,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AdwaitPatel&show_icons=true&theme=gotham" alt="adwaitpatel" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhoomishakya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdwaitPatel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomishakya" alt="GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdwaitPatel" alt="GitHub Streak Stats" />
 </p>
 
