@@ -8,7 +8,7 @@
 
 
 ## Skills
-<p align="center"> (https://skillicons.dev/icons?i=html,css,js,py,java,django,react,express,fastapi,figma,git,github,bash,azure,vscode,vite,vercel,ubuntu,ts,tailwind,sklearn,redis,postman,npm,notion,nodejs,mysql,mongodb,linux,bootstrap)
+(https://skillicons.dev/icons?i=html,css,js,py,java,django,react,express,fastapi,figma,git,github,bash,azure,vscode,vite,vercel,ubuntu,ts,tailwind,sklearn,redis,postman,npm,notion,nodejs,mysql,mongodb,linux,bootstrap)
 
 
 ## Socials
