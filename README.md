@@ -9,7 +9,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,django,react,express,fastapi,figma,git,github,bash,azure,vscode,vite,vercel,ubuntu,ts,tailwind,sklearn,redis,postman,npm,notion,nodejs,mysql,mongodb,linux,bootstrap)]
 
 ## Socials
 <a href="https://github.com/AdwaitPatel"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="40"></a>
