@@ -20,3 +20,4 @@
 
 ## My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AdwaitPatel&show_icons=true&theme=gotham" alt="adwaitpatel" />
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
