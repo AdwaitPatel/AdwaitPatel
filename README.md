@@ -21,4 +21,5 @@
 ## My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AdwaitPatel&show_icons=true&theme=gotham" alt="adwaitpatel" />
   
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-710-blue)
+
